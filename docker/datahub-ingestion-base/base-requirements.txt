@@ -362,5 +362,5 @@ xlrd==2.0.1
 xmltodict==0.13.0
 yarl==1.9.4
 zeep==4.2.1
-zipp==3.18.1
+zipp==3.19.1
 zstd==1.5.5.1
