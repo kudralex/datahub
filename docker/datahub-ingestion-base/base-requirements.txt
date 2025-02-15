@@ -64,7 +64,7 @@ confluent-kafka==2.3.0
 connexion==2.14.1
 cron-descriptor==1.4.3
 croniter==2.0.3
-cryptography==42.0.5
+cryptography==44.0.1
 cx_Oracle==8.3.0
 cymem==2.0.8
 databricks-dbapi==0.6.0
