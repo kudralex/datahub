@@ -32,7 +32,7 @@
     "@markprompt/react": "^0.40.5",
     "@octokit/plugin-retry": "^3.0.9",
     "@octokit/plugin-throttling": "^3.5.1",
-    "@octokit/rest": "^18.6.2",
+    "@octokit/rest": "^21.1.1",
     "@radix-ui/react-visually-hidden": "^1.0.2",
     "@supabase/supabase-js": "^2.33.1",
     "@swc/core": "^1.4.2",
