@@ -117,7 +117,7 @@ graphql-core==3.2.3
 great-expectations==0.15.50
 greenlet==3.0.3
 grpc-google-iam-v1==0.13.0
-grpcio==1.62.1
+grpcio==1.62.3
 grpcio-status==1.62.1
 grpcio-tools==1.62.1
 gssapi==1.8.3
