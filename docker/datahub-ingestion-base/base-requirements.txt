@@ -257,7 +257,7 @@ pyspnego==0.10.2
 python-daemon==3.0.1
 python-dateutil==2.9.0.post0
 python-jose==3.3.0
-python-ldap==3.4.4
+python-ldap==3.4.5
 python-nvd3==0.15.0
 python-slugify==8.0.4
 python-stdnum==1.20
